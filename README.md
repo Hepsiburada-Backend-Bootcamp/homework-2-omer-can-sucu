@@ -4,4 +4,4 @@
 - Log operations be performed with serilog.
 - The swagger implemented and the project be published in docker
 
-![alt text](https://github.com/Hepsiburada-Backend-Bootcamp/homework-2-omer-can-sucu/docker.png)
+![alt text](https://github.com/Hepsiburada-Backend-Bootcamp/homework-2-omer-can-sucu/blob/main/docker.png)
